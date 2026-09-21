@@ -8,9 +8,6 @@ Hi, I'm **Yash Ashok Jadhav**, a **Data Analyst** with a background in Computer 
 🎯 Currently looking for opportunities in **Data Analytics / Data Analyst roles**
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557020175308) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_50_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-jadhav50) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjadhav654321@gmail.com) 
-
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
@@ -50,3 +47,6 @@ Performed **data cleaning, exploratory data analysis, and visualization** to ide
 Developed a real-time face recognition attendance system using **YOLO and ArcFace**, with Python and MySQL for attendance management.
 
 **Tech:** Python • YOLO • ArcFace • OpenCV • MySQL
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557020175308) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_50_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-jadhav50) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjadhav654321@gmail.com) 
