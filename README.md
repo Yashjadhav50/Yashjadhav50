@@ -7,7 +7,16 @@ Hi, I'm **Yash Ashok Jadhav**, a **Data Analyst** with a background in Computer 
 🚀 Experienced in working with real-world datasets through internships and projects  
 🎯 Currently looking for opportunities in **Data Analytics / Data Analyst roles**
 
+## 💼 Internship Experience
 
+**Data Analytics Intern — Oasis Infobyte**  
+*Aug 2026 – Sep 2026*
+
+- Completed a 1-month **AICTE OIB-SIP Data Analytics Internship**.
+- Worked on data cleaning, EDA, customer segmentation, RFM analysis, K-Means clustering, and data visualization using Python.
+- Recognized as a **Star Performer** for exceptional dedication and outstanding contributions.
+- 📜 [View Certificates & Letter of Recommendation](https://drive.google.com/drive/folders/1LU6YWPWO3KzxlRJLi77yE34PkjiXL98R?usp=sharing)
+- 
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
