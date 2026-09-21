@@ -16,7 +16,7 @@ Hi, I'm **Yash Ashok Jadhav**, a **Data Analyst** with a background in Computer 
 - Worked on data cleaning, EDA, customer segmentation, RFM analysis, K-Means clustering, and data visualization using Python.
 - Recognized as a **Star Performer** for exceptional dedication and outstanding contributions.
 - 📜 [View Certificates & Letter of Recommendation](https://drive.google.com/drive/folders/1LU6YWPWO3KzxlRJLi77yE34PkjiXL98R?usp=sharing)
-- 
+  
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analytics
