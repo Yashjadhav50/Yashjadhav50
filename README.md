@@ -36,26 +36,38 @@ Hi, I'm **Yash Ashok Jadhav**, a **Data Analyst** with a background in Computer 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 📌 Featured Projects
 
-### 📊 Customer Segmentation using RFM & K-Means
-Analyzed customer purchasing behavior using **RFM analysis and K-Means clustering** to identify customer segments and generate actionable business insights.
+### 🔍 AI-Based Motherboard Defect Detection
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+Developed a computer vision system using **YOLO11n** to detect motherboard components and manufacturing defects across 11 classes. Achieved **87.67% mAP@50** and deployed a Streamlit application with defect filtering, annotated image downloads, and CSV reporting.
 
----
-
-### 📈 Retail Sales Data Analysis
-Performed **data cleaning, exploratory data analysis, and visualization** to identify sales trends, customer patterns, and business insights.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib
+**Tech:** Python • YOLO11n • OpenCV • Streamlit
 
 ---
 
-### 🤖 Automated Attendance System
-Developed a real-time face recognition attendance system using **YOLO and ArcFace**, with Python and MySQL for attendance management.
+### 🖐️ AI-Powered Hand Gesture Control System
+
+Developed a real-time, touch-free computer control system using **MediaPipe and Python**, featuring gesture-based mouse control, virtual keyboard, air drawing, erasing, and system volume adjustment.
+
+**Tech:** Python • OpenCV • MediaPipe • PyAutoGUI
+
+---
+
+### 🤖 Automated Attendance System using YOLO and ArcFace
+
+Developed a real-time face detection and recognition system to automate student attendance, with registration and attendance record management. Achieved approximately **98% recognition accuracy** and reduced attendance recording time by approximately 80%.
 
 **Tech:** Python • YOLO • ArcFace • OpenCV • MySQL
+
+---
+
+### 📊 Customer Segmentation using RFM & K-Means | Oasis Infobyte
+
+Performed **RFM analysis and K-Means clustering** on online retail data, identifying four customer segments and generating actionable insights for targeted marketing strategies.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557020175308) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_50_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-jadhav50) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjadhav654321@gmail.com) 
